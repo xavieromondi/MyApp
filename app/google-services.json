@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810571431430",
+    "project_id": "myapp-4a0f8",
+    "storage_bucket": "myapp-4a0f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810571431430:android:d341052d9c6d078cb48d87",
+        "android_client_info": {
+          "package_name": "com.okwatch.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-9RreF1nrV1D3-st1MfmQ5LkJD5T15_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
